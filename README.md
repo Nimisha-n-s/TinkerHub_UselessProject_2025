@@ -50,15 +50,11 @@ For Software:
 Screenshots 
 https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screenshot%202025-08-02%20020104.png
 https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screenshot%202025-08-02%20020121.png
-Screenshot 2025-08-02 020516.png
+https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screenshot%202025-08-02%20020121.png
 
 
 Project Demo
 Video
-[Screen Recording 2025-08-02 020240.mp4](https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screen%20Recording%202025-08-02%20020240.mp4)
+(https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screen%20Recording%202025-08-02%20020240.mp4)
 
-
-
-Team Contributions
-[Nimisha N S]: [idea ]
 
