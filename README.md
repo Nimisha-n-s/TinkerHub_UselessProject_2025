@@ -49,7 +49,7 @@ For Software:
 
 Screenshots 
 https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screenshot%202025-08-02%20020104.png
-Screenshot 2025-08-02 020121.png
+https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screenshot%202025-08-02%20020121.png
 Screenshot 2025-08-02 020516.png
 
 
