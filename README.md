@@ -48,7 +48,7 @@ Project Documentation
 For Software:
 
 Screenshots 
-Screenshot 2025-08-02 020104.png
+[Screenshot 2025-08-02 020104.png](https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screen%20Recording%202025-08-02%20020240.mp4)
 Screenshot 2025-08-02 020121.png
 Screenshot 2025-08-02 020516.png
 
