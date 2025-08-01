@@ -49,6 +49,7 @@ For Software:
 
 Screenshots 
 Screenshot 2025-08-02 020104.png
+Screenshot 2025-08-02 020121.png
 
 Project Demo
 Video
