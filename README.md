@@ -54,11 +54,10 @@ Screenshot 2025-08-02 020516.png
 
 Project Demo
 Video
-
+Screen Recording 2025-08-02 020240.mp4
 
 
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[Nimisha N S]: [idea ]
+
