@@ -50,10 +50,11 @@ For Software:
 Screenshots 
 Screenshot 2025-08-02 020104.png
 Screenshot 2025-08-02 020121.png
+Screenshot 2025-08-02 020516.png
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+
 
 
 
