@@ -65,7 +65,7 @@ For Software:
 
 ### Project Demo
 # Video
-
+https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screen%20Recording%202025-08-02%20020240.mp4
 
 # Additional Demos
 [Add any extra demo materials/links]
