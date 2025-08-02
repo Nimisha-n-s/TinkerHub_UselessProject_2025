@@ -72,7 +72,7 @@ https://github.com/Nimisha-n-s/TinkerHub_UselessProject_2025/blob/main/Screen%20
 
 ## Team Contributions
 - [Nimisha N S]: [idea selection and implementation]
-- [Anjana Sarasan]: [coding]
+- [Anjana Sarasan]: [coding and webcam setting ]
 
 
 ---
