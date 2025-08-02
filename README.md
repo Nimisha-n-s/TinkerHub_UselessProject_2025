@@ -63,41 +63,17 @@ For Software:
 <img width="1920" height="1020" alt="Screenshot 2025-08-02 020104" src="https://github.com/user-attachments/assets/53ea2db5-3b8d-4e33-bcc7-412ab5c49a00" />
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Nimisha N S]: [idea selection and implementation]
+- [Anjana Sarasan]: [coding]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
