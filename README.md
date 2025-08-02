@@ -43,6 +43,7 @@ pip install opencv-python
 
 
 # Run
+****“This project runs locally on a laptop and uses a webcam. It’s not hosted online because it requires direct camera access and local processing.****
 Set up your phone:
 Install the IP Webcam app from the Play Store (or any similar app).
 Open the app, start the camera server, and note the IP address and port (e.g., http://192.168.x.x:8080/video).
